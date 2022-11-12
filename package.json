@@ -1,0 +1,24 @@
+{
+  "name": "canva-animations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natalia-kuchta/canva-animations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natalia-kuchta/canva-animations/issues"
+  },
+  "homepage": "https://github.com/natalia-kuchta/canva-animations#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.8.4"
+  }
+}
